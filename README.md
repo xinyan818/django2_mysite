@@ -1,1 +1,1 @@
-# django2_mysite
+根据官方的教程练习一下django2
